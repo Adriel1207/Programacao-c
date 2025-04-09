@@ -5,7 +5,7 @@ int main(){
     int linhas[10];// Array de caracteres com 10 tamanhos de vetores designado para armazenar o indice de linhas de 1 a 10.
     char colunas[10];// Array de caracteres com 10 tamanhos de vetores designado para armazenar o indice de colunas de A a J.
     int tabuleiro[10][10];// Matriz com tamanhos 10x10 designado para armazenar todas posições do tabuleiro.
-    int navioHorizontal[3]; // Array de caracteres com 3 tamanhos de vetores designado para armazenar o valor do Navio Horizontal.
+    int navioHorizontal[3];// Array de caracteres com 3 tamanhos de vetores designado para armazenar o valor do Navio Horizontal.
     int navioVertical[3];// Array de caracteres com 3 tamanhos de vetores designado para armazenar o valor do Navio Vertical.
 
     //Estrutura de repetição aninhada para inicialização de forma automática o tabuleiro inteiro com valor 0.
